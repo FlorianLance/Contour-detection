@@ -3,7 +3,7 @@
 #######################################
 
 This program allows to use several differencial base operators in order to detect the contour of loaded images.
-It uses Qt for the interface and the opencv lib.
+It is written int C++ and uses Qt and the opencv lib.
 
 Filters : sobel, prewitt, kirsh, robinson.
 Thresholding : global, local, hysteresis
