@@ -1,5 +1,5 @@
 #######################################
-# 	     Contour detection       #
+# 	     Contour detection        #
 #######################################
 
 This program allows to use several differencial base operators in order to detect the contour of loaded images.
