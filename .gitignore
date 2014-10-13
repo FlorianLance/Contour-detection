@@ -1,0 +1,19 @@
+
+################ projects
+
+projet-qt/
+
+################ scripts
+
+
+################ thirdParty
+
+
+################ generated files
+
+dist/
+
+# contour
+contour/data/
+contour/lib/
+contour/bin/
